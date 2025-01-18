@@ -12,6 +12,7 @@
     - git-credential-manager
     - dotnet-sdk
     - docker
-
+- npm
+  - `npm install -g npm-check-updates`
 # Configure settings
 
